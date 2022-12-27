@@ -7,9 +7,4 @@
 
 // const chanel = prompt("Eng yoqtirgan yutub kanaliz?", " ");
 // console.log(`https://youtobe.com/${chanel}`);
-
-const isAge = true;
-const isClose = true;
-const isChecked = false;
-
-console.log(isAge && isClose && !isChecked);
+// ! belgisi trueni folase falseni true qiladi inkor!
